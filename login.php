@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Logowanie</title>
+	<title>Panel Logowania</title>
 </head>
 <body>
 	<h1>Panel logowania</h1>
