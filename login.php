@@ -6,8 +6,10 @@
 </head>
 <body>
 	<h1>Panel logowania</h1>
-	<input type="text" placeholder="Login">
-	<input type="password" placeholder="Haslo">
-	<input type="submit" value="Zaloguj">
+	<form action="login_method.php">
+		<input type="text" placeholder="Login" name="login">
+		<input type="password" placeholder="Haslo" name="haslo">
+		<input type="submit" value="Zaloguj">
+	</form>
 </body>
 </html>
