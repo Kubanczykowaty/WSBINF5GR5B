@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h1>Panel logowania</h1>
-	<form action="login_method.php">
+	<form action="m_login.php" method="POST">
 		<input type="text" placeholder="Login" name="login">
 		<input type="password" placeholder="Haslo" name="haslo">
 		<input type="submit" value="Zaloguj">
