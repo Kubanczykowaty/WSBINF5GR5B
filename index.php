@@ -6,6 +6,7 @@
     <title>Strona Główna</title>
 </head>
 <body>
-    
+    <h1>Witaj na stronie do zarządzania ludźmi!</h1>
+    <h3><a href="login.php">Przejdź do logowania</a></h3>
 </body>
 </html>
