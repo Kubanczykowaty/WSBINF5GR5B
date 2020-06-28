@@ -1,1 +1,1 @@
-# Strona kadrowa
+# Strona kadrowa do zarządzania ludzmi
