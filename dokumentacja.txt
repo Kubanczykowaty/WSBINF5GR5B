@@ -1,0 +1,8 @@
+dodawanie.py
+dzielenie.py
+fileexplorer.py
+main.py
+menu.py
+mnozenie.py
+odejmowanie.py
+README.md
